@@ -1,0 +1,17 @@
+{
+  "name": "projectsteamrip",
+  "version": "1.0.0",
+  "description": "A Node JS script that takes a json file containing steam game IDs and returns reviews of said games.",
+  "main": "steamRip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SteamRip"
+  ],
+  "author": "raskoln1k0v",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
